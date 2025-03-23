@@ -1,0 +1,58 @@
+Tutoring for c programming
+
+I'm an expert c programmer and have volunteered for the IEEE
+as well as led and contributed to production grade software.
+
+
+
+Beginner topics:
+1. data types, pointers and functions
+2. command line ganes
+3. brute force equation
+4. how to love your preprocessor
+5. write a basic shell and command line tools
+
+
+expert topics:
+1. creating production grade asynchronous programs
+a. select() and poll()
+I. connecting to sockets
+II. read() and write()
+*catching keyboard strokes
+*rrading data from sockets
+*writing data to sockets
+2. API: using and writing libraries
+a. curses, openssl, gmp, libsdl
+b. understanding linkers/loaders
+c. librarify your own code
+3. IEEE and POSIX conpliance
+4. Data structures and algorithms
+a. quicksort and binary search
+b.  divide and conquer algorithms
+c. screen drawing algorithms for kernels
+5. floating point numbers and numerical literacy 
+
+
+some of the topics I listed above are very hard to 
+find accurate information online on how to do. 
+this is not an online tutorial but a list of topics
+off the top of my head that I excel at. but more so,
+they are topics that are fun to learn with me as I 
+show the many follies and pitfalls impossible to avoid 
+without help. 
+
+
+
+I am fortunate to have learned from one of the best,
+if not the best C programmer to have ever lived. 
+
+He would expect me to share it with you as exactingly
+and correctly as he did with me  
+
+
+To enroll:
+submit an issue report to this page by
+1. creating a github account 
+2. opening an issue on this page "README"
+
+
